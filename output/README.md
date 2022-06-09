@@ -1,7 +1,7 @@
 
-# README GENERATOR
+# Project
 
-![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
+![badge](https://img.shields.io/badge/license-GPL 3.0-brightgreen)
 
 
 ## Table of Contents
@@ -12,10 +12,9 @@
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
-- [Copyright](#copyright)
 
 ## Description
-Readme Generator using nodejs to help the user create a readme quickly.
+A node application that generates a readme file
 
 ## Installation
 
@@ -24,36 +23,31 @@ Follow these steps to install this project on your local machine.
 - Open Bash editor
 - mkdir nodeproject
 - cd nodeproject
-- git clone https://github.com/altheahanson/ReadMeGenrator
-- npm install
+- git clone https://github.com/bobnun/nodeproject
 
 ## Usage
-After cloning this repository...
-Open bash terminal - node index.js
+Contact Me
 
 ## Application
 
-Link to Deployed Application: none
+Link to Deployed Application: http://nodeproject.com
 
-## Images
-- ![README Generator](./assets/images/ReadMeGenerator.gif)
-- [CLICK HERE TO VIEW FULL VIDEO](./assets/images/ReadMeGenerator.webm)
+- ![Project](assets/images/nodeproject.png)
+- ![wireframe](assets/images/wireframe.png)
 
 ## Tests
-Email Me
+npm i
 
 ## Questions
-- Username: Althea Hanson 
-- https://github.com/altheahanson
-- Please contact me for additional questions 
-- altheacarlenehanson@gmail.com
+- bobnun 
+- https://github.com/bobnun/
+- Please contact me for additional questions none@none.com
 
-## Contributing
-Email Me
+## Credits
+Contact Me
 
 ## License
-- This project is govern under the General Public v3.0 License
+- This project is licenses under the  undefined license.
 
-## Copyright
-   (c) Copyright 2022 Althea Hanson 
+##   (c) Copyright 2022 Bob None 
  
