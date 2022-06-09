@@ -12,19 +12,19 @@ const questions = [
         name: "title",
       },
       {
-        message: "Enter the GitHub URL for the Project?",
+        message: "Enter the GitHub Repository title for the Project? (No Spaces)",
         type: "input",
         name: "repoURL",
-      },
+  },
+  {
+    message: "Enter the GitHub Pages URL for the Project? '(http(s)://)",
+    type: "input",
+    name: "deployedURL",
+  },
       {
         message: "Enter a brief Project description?",
         type: "input",
         name: "description",
-      },
-      {
-        message: "Enter how to install the Project?",
-        type: "input",
-        name: "installation",
       },
       {
         message: "Enter how to use the Project?",
@@ -80,7 +80,9 @@ function writeFile(fileName,data) {
         console.log("Success!")
     }
 })
+console.log(data);
 }
+
 
 
 // TODO: Create a function to initialize app
