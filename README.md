@@ -1,7 +1,7 @@
 
-# kdj
+# README GENERATOR
 
-![badge](https://img.shields.io/badge/license-APACHE 2.0-brightgreen)<br />
+![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
 
 ## Table of Contents
@@ -12,42 +12,48 @@
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
+- [Copyright](#copyright)
 
 ## Description
-ljhfds
+Readme Generator using nodejs to help the user create a readme quickly.
 
 ## Installation
 
 Follow these steps to install this project on your local machine.
 
 - Open Bash editor
-- mkdir lfjks
-- cd lfjks
-- git clone https://github.com/skfdjs/lfjks
+- mkdir nodeproject
+- cd nodeproject
+- git clone https://github.com/altheahanson/ReadMeGenrator
+- npm install
 
 ## Usage
-undefined
+After cloning this repository...
+Open bash terminal - node index.js
 
 ## Application
 
-Link to Deployed Application: ldkfh
+Link to Deployed Application: none
 
-- ![kdj](assets/images/lfjks.png)
-- ![wireframe](assets/images/wireframe.png)
+## Images
+- ![README Generator](./assets/images/ReadMeGenerator.gif)
+- [CLICK HERE TO VIEW FULL VIDEO](./assets/images/ReadMeGenerator.webm)
 
 ## Tests
-dsfkjs
+Email Me
 
 ## Questions
-- skfdjs 
-- https://github.com/skfdjs/
-- Please contact me for additional questions sfdlks
+- Username: Althea Hanson 
+- https://github.com/altheahanson
+- Please contact me for additional questions 
+- altheacarlenehanson@gmail.com
 
-## Credits
-flkjs
+## Contributing
+Email Me
 
 ## License
-- This project is licenses under the undefined license.
+- This project is govern under the General Public v3.0 License
 
-##   (c) Copyright skdjf sdkfjs 
+## Copyright
+   (c) Copyright 2022 Althea Hanson 
  

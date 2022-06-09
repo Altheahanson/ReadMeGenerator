@@ -10,28 +10,28 @@ const questions = [
         message: "Enter the Project title?",
         type: "input",
         name: "title",
-      },
-      {
+    },
+    {
         message: "Enter the GitHub Repository title for the Project? (No Spaces)",
         type: "input",
         name: "repoURL",
-  },
-  {
+    },
+    {
     message: "Enter the GitHub Pages URL for the Project? '(http(s)://)",
     type: "input",
     name: "deployedURL",
-  },
-      {
+    },
+    {
         message: "Enter a brief Project description?",
         type: "input",
         name: "description",
-      },
-      {
+    },
+    {
         message: "Enter how to use the Project?",
         type: "input",
         name: "usage",
-      },
-      {
+    },
+    {
         message: "Choose the license that applies to the Project?",
         type: "list",
         choices: ['MIT', 'APACHE 2.0', 'GPL 3.0', 'BSD 3', 'None'],
